@@ -1,4 +1,4 @@
-package com.spring.mongoDb.practice.spring_mongo_crud;
+package com.spring.mongoDb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
